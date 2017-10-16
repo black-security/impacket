@@ -1,3 +1,5 @@
+### Note: REPOSITORY UNDER UPDATE (MIGHT BE UNSTABLE) ...
+
 What is Impacket?
 =================
 
